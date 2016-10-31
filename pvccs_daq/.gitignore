@@ -1,0 +1,8 @@
+*.o
+*.tmp
+*.pro
+*.pro.*
+*~
+*.bak
+moc_*.cpp
+
